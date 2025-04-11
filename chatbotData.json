@@ -1,0 +1,1490 @@
+{
+  "Admission_Overview": {
+    "keywords": ["admission"],
+    "responses": [
+      "Admissions are open for eligible candidates in various undergraduate and postgraduate programs at SVCET."
+    ]
+  },
+  "Admission_Apply": {
+    "keywords": ["apply"],
+    "responses": [
+      "You can apply online through the official SVCET website or visit the campus for offline application."
+    ]
+  },
+  "Admission_Application": {
+    "keywords": ["application"],
+    "responses": [
+      "The application form is available online and must be filled out with accurate academic and personal details."
+    ]
+  },
+  "Admission_Form": {
+    "keywords": ["admission form"],
+    "responses": [
+      "The admission form includes sections for personal information, academic records, and entrance exam details."
+    ]
+  },
+  "Admission_Entrance": {
+    "keywords": ["entrance exam"],
+    "responses": [
+      "Admission is based on entrance exams like EAMCET, JEE Main, or college-conducted entrance tests."
+    ]
+  },
+  "Admission_Counselling": {
+    "keywords": ["counselling"],
+    "responses": [
+      "Counselling sessions are held for seat allotment based on entrance exam rank and reservation norms."
+    ]
+  },
+  "Admission_HowToJoin": {
+    "keywords": ["how to join"],
+    "responses": [
+      "To join SVCET, meet the eligibility criteria, clear the entrance exam, and participate in counselling."
+    ]
+  },
+  "Admission_Eligibility": {
+    "keywords": ["eligibility criteria", "score", "B.Tech admission"],
+    "responses": [
+      "For B.Tech courses, candidates must have completed 10+2 with Physics, Chemistry, and Mathematics."
+    ]
+  },
+  "Admission_Process": {
+    "keywords": ["admission process"],
+    "responses": [
+      "The admission process includes application submission, entrance exam, counselling, and document verification."
+    ]
+  },
+  "Admission_Documents": {
+    "keywords": ["required documents", "necessary document"],
+    "responses": [
+      "You need 10th & 12th marksheets, TC, Entrance Rank Card, Aadhaar, Caste & Income Certificate (if applicable), and passport-size photos."
+    ]
+  },
+  "Admission_College": {
+    "keywords": ["college admission"],
+    "responses": [
+      "College admissions at SVCET follow a transparent process through state counselling and management quotas."
+    ]
+  },
+  "Admission_SeatAllotment": {
+    "keywords": ["seat allotment"],
+    "responses": [
+      "Seat allotment is based on entrance rank and reservation policies during the counselling process."
+    ]
+  },
+
+  "Hostel_Facilities": {
+    "keywords": ["hostel"],
+    "responses": [
+      "SVCET provides separate hostel facilities for boys and girls, equipped with 24/7 security and essential amenities."
+    ]
+  },
+  "Hostel_Accommodation": {
+    "keywords": ["accommodation"],
+    "responses": [
+      "Hostel accommodation includes well-maintained rooms with options for both attached and common bathrooms."
+    ]
+  },
+  "Hostel_Rooms": {
+    "keywords": ["rooms"],
+    "responses": [
+      "Students can choose between 2-seater and 3-seater rooms based on preference and availability."
+    ]
+  },
+  "Hostel_Mess": {
+    "keywords": ["mess"],
+    "responses": [
+      "The hostel mess serves nutritious and hygienic food with North and South Indian varieties."
+    ]
+  },
+  "Hostel_Living": {
+    "keywords": ["living"],
+    "responses": [
+      "Living in the hostel offers a comfortable and disciplined environment with access to study and recreation areas."
+    ]
+  },
+  "Hostel_Stay": {
+    "keywords": ["stay"],
+    "responses": [
+      "Hostel stay includes facilities like Wi-Fi, reading rooms, indoor games, and laundry services."
+    ]
+  },
+  "Hostel_Fee": {
+    "keywords": [" hostel fee"],
+    "responses": [
+      "Hostel fees range from ₹50,000 to ₹80,000 per year depending on room type and facilities."
+    ]
+  },
+  "Hostel_FoodQuality": {
+    "keywords": ["food quality", "hostel food", "Hostel food"],
+    "responses": [
+      "The hostel mess maintains high standards of hygiene and food quality, with regular inspections and student feedback."
+    ]
+  },
+  "Hostel_FoodVariety": {
+    "keywords": ["food variety"],
+    "responses": [
+      "A variety of meals are served, including both North and South Indian cuisines, with vegetarian and non-vegetarian options."
+    ]
+  },
+  "Hostel_FoodTimings": {
+    "keywords": ["food timings"],
+    "responses": [
+      "Food is served at fixed timings: breakfast, lunch, evening snacks, and dinner to ensure a healthy routine."
+    ]
+  },
+  "Hostel_SpecialMeals": {
+    "keywords": ["special meals"],
+    "responses": [
+      "Special meals are prepared during festivals and on request for students with specific dietary needs."
+    ]
+  },
+  "Hostel_MessCommittee": {
+    "keywords": ["mess committee"],
+    "responses": [
+      "A student-led mess committee coordinates with staff to decide menus and improve food services."
+    ]
+  },
+  "Hostel_DietaryNeeds": {
+    "keywords": ["diet", "dietary needs"],
+    "responses": [
+      "Students with dietary restrictions can inform the warden or mess in-charge to make appropriate meal arrangements."
+    ]
+  },
+  "CampusLife_CampusLife": {
+    "keywords": ["campus life"],
+    "responses": [
+      "Campus life at SVCET is vibrant and inclusive, offering students a balance of academics, events, and personal development."
+    ]
+  },
+  "CampusLife_Facilities": {
+    "keywords": ["facilities"],
+    "responses": [
+      "The campus offers excellent facilities including smart classrooms, advanced laboratories, seminar halls, and digital learning centers."
+    ]
+  },
+  "CampusLife_Events": {
+    "keywords": ["events"],
+    "responses": [
+      "The college hosts numerous events like tech fests, cultural festivals, workshops, seminars, and sports competitions throughout the year."
+    ]
+  },
+  "CampusLife_Gym": {
+    "keywords": ["gym"],
+    "responses": [
+      "Students have access to a well-equipped gym that supports fitness and physical wellness activities."
+    ]
+  },
+  "CampusLife_Canteen": {
+    "keywords": ["canteen"],
+    "responses": [
+      "The college canteen provides hygienic and affordable food with a variety of vegetarian and non-vegetarian options."
+    ]
+  },
+  "CampusLife_Library": {
+    "keywords": ["library"],
+    "responses": [
+      "The central library is spacious and resource-rich, offering physical and digital access to academic books, journals, and research materials."
+    ]
+  },
+  "CampusLife_Infrastructure": {
+    "keywords": ["infrastructure"],
+    "responses": [
+      "The college boasts modern infrastructure including Wi-Fi-enabled campus, smart classrooms, and specialized research labs."
+    ]
+  },
+  "CampusLife_Environment": {
+    "keywords": ["environment"],
+    "responses": [
+      "SVCET maintains a clean, green, and eco-friendly environment with landscaped gardens and sustainability practices."
+    ]
+  },
+
+  "Scholarship_General": {
+    "keywords": ["scholarship"],
+    "responses": [
+      "SVCET supports various scholarships provided by the government and private organizations for eligible students."
+    ]
+  },
+  "Scholarship_Reimbursement": {
+    "keywords": ["fee reimbursement"],
+    "responses": [
+      "Students with family income below a certain threshold are eligible for tuition fee reimbursement through government schemes like E-PASS."
+    ]
+  },
+  "Scholarship_Aid": {
+    "keywords": ["financial aid"],
+    "responses": [
+      "Financial aid is available for economically weaker students through government and institutional support programs."
+    ]
+  },
+  "Scholarship_SCST": {
+    "keywords": ["SC ST"],
+    "responses": [
+      "SC and ST students can apply for government scholarships such as E-PASS with valid caste and income certificates."
+    ]
+  },
+  "Scholarship_EBC": {
+    "keywords": ["EBC"],
+    "responses": [
+      "Economically Backward Class (EBC) students are eligible for fee reimbursement under state schemes."
+    ]
+  },
+  "Scholarship_Minority": {
+    "keywords": ["minority"],
+    "responses": [
+      "Minority students can avail scholarships through the Minority Welfare Department by submitting required documents."
+    ]
+  },
+  "Scholarship_Merit": {
+    "keywords": ["merit"],
+    "responses": [
+      "Merit-based scholarships are given to academic toppers, entrance exam rankers, and students with consistent performance."
+    ]
+  },
+  "Scholarship_Documents": {
+    "keywords": ["documents"],
+    "responses": [
+      "To apply for scholarships, students must submit their income certificate, caste certificate, marks memos, and bank passbook copy."
+    ]
+  },
+
+  "Exam_General": {
+    "keywords": ["exam"],
+    "responses": [
+      "Each semester includes two mid-exams and one final university exam conducted at the end of the term."
+    ]
+  },
+  "Exam_Internals": {
+    "keywords": ["internals"],
+    "responses": [
+      "Internal assessments include mid exams, quizzes, assignments, and lab work throughout the semester."
+    ]
+  },
+  "Exam_Mid": {
+    "keywords": ["mid"],
+    "responses": [
+      "Two mid exams are conducted in each semester to evaluate students' continuous academic performance."
+    ]
+  },
+  "Exam_Final": {
+    "keywords": ["final"],
+    "responses": [
+      "The final university examination is conducted at the end of the semester and covers the full syllabus."
+    ]
+  },
+  "Exam_Marks": {
+    "keywords": ["marks"],
+    "responses": [
+      "Final marks are calculated as a combination of internal (40%) and external (60%) assessments. This ratio may vary slightly based on university norms."
+    ]
+  },
+  "Exam_Evaluation": {
+    "keywords": ["evaluation"],
+    "responses": [
+      "Evaluation is done based on written exams, lab work, project submissions, and attendance performance."
+    ]
+  },
+  "Exam_Grading": {
+    "keywords": ["grading"],
+    "responses": [
+      "Grades are awarded based on cumulative performance across internal and external exams, following university grading systems."
+    ]
+  },
+  "Exam_Preparation": {
+    "keywords": ["model paper", "previous papers"],
+    "responses": [
+      "Model papers and previous year question papers are provided by departments to help students prepare effectively."
+    ]
+  },
+  "Exam_Attendance": {
+    "keywords": ["attendance"],
+    "responses": [
+      "A minimum of 75% attendance is mandatory to be eligible for semester examinations."
+    ]
+  },
+  "Attendance_General": {
+    "keywords": ["attendance"],
+    "responses": [
+      "A minimum of 75% attendance is mandatory to be eligible for end-semester examinations."
+    ]
+  },
+  "Attendance_Percentage": {
+    "keywords": ["percentage"],
+    "responses": [
+      "Students must maintain at least 75% attendance overall; falling below this may lead to academic penalties."
+    ]
+  },
+  "Attendance_Absent": {
+    "keywords": ["absent"],
+    "responses": [
+      "If you're absent due to a valid reason, it's important to inform your class in-charge and submit proof if required."
+    ]
+  },
+  "Attendance_Shortage": {
+    "keywords": ["shortage"],
+    "responses": [
+      "Students with attendance between 65% and 74% may apply for condonation; below 65% leads to detention."
+    ]
+  },
+  "Attendance_Medical": {
+    "keywords": ["medical"],
+    "responses": [
+      "Medical certificates can support condonation requests but must be submitted on time and verified by authorities."
+    ]
+  },
+  "Attendance_Condonation": {
+    "keywords": ["condonation"],
+    "responses": [
+      "Condonation is applicable for attendance between 65% and 74% with valid medical or personal reasons and a nominal fee."
+    ]
+  },
+  "Doubt_Sessions": {
+    "keywords": ["doubt"],
+    "responses": [
+      "Faculty conduct weekly doubt-clearing sessions to help students strengthen their understanding of subject concepts."
+    ]
+  },
+  "Doubt_Clarification": {
+    "keywords": ["clarification"],
+    "responses": [
+      "Students can approach faculty members during office hours or after class for one-on-one clarification."
+    ]
+  },
+  "Doubt_Help": {
+    "keywords": ["help"],
+    "responses": [
+      "Additional academic help is provided through special sessions, remedial classes, and academic counseling."
+    ]
+  },
+  "Doubt_Tutoring": {
+    "keywords": ["tutoring"],
+    "responses": [
+      "Peer tutoring programs are conducted where senior students assist juniors with challenging subjects."
+    ]
+  },
+  "Doubt_Remedial": {
+    "keywords": ["remedial"],
+    "responses": [
+      "Remedial classes are organized regularly for students who need extra support to keep up with the syllabus."
+    ]
+  },
+  "Doubt_ExtraClass": {
+    "keywords": ["extra class"],
+    "responses": [
+      "Extra classes are scheduled before exams or after regular hours to cover difficult topics and revisions."
+    ]
+  },
+  "Doubt_LabSupport": {
+    "keywords": ["lab"],
+    "responses": [
+      "Lab instructors guide students with hands-on doubts and provide support for project and practical-related queries."
+    ]
+  },
+  "Language_EnglishLab": {
+    "keywords": ["language lab"],
+    "responses": [
+      "SVCET has a well-equipped English Language Lab to help students enhance their communication and listening skills."
+    ]
+  },
+  "Language_English": {
+    "keywords": ["english"],
+    "responses": [
+      "Students receive focused training to improve fluency, vocabulary, and grammar in English for academic and professional success."
+    ]
+  },
+  "Language_Communication": {
+    "keywords": ["communication"],
+    "responses": [
+      "Communication skills are developed through interactive sessions, presentations, and structured activities."
+    ]
+  },
+  "Language_SoftSkills": {
+    "keywords": ["soft skills"],
+    "responses": [
+      "Soft skills training, including teamwork, time management, and leadership, is provided during the 2nd and 3rd years."
+    ]
+  },
+  "Language_PublicSpeaking": {
+    "keywords": ["public speaking"],
+    "responses": [
+      "Students engage in public speaking through debates, JAM sessions, storytelling, and extempore events to build confidence."
+    ]
+  },
+  "Language_ResumeGD": {
+    "keywords": ["resume", "group discussion", "interview"],
+    "responses": [
+      "Workshops on resume writing, group discussions, and mock interviews are conducted to prepare students for placements."
+    ]
+  },
+  "Extracurricular_Club": {
+    "keywords": ["club"],
+    "responses": [
+      "SVCET has over 20 active student clubs, including technical, cultural, and social clubs to foster all-round development."
+    ]
+  },
+  "Extracurricular_Dance": {
+    "keywords": ["dance"],
+    "responses": [
+      "The dance club actively trains and performs in cultural events, inter-college fests, and annual celebrations like Selesta."
+    ]
+  },
+  "Extracurricular_Music": {
+    "keywords": ["music"],
+    "responses": [
+      "The music club provides a platform for students to explore instrumental and vocal talents in college events."
+    ]
+  },
+  "Extracurricular_Drama": {
+    "keywords": ["drama"],
+    "responses": [
+      "Drama club members participate in skits, street plays, and stage performances on social themes and campus life."
+    ]
+  },
+  "Extracurricular_NCC": {
+    "keywords": ["ncc"],
+    "responses": [
+      "The NCC unit at SVCET instills discipline, patriotism, and leadership through regular drills, camps, and social service."
+    ]
+  },
+  "Extracurricular_NSS": {
+    "keywords": ["nss"],
+    "responses": [
+      "SVCET’s NSS unit engages in community outreach, cleanliness drives, and awareness programs promoting civic responsibility."
+    ]
+  },
+  "Extracurricular_Robotics": {
+    "keywords": ["robotics"],
+    "responses": [
+      "The Robotics Club encourages innovation through hands-on projects, competitions, and workshops on automation and AI."
+    ]
+  },
+  "Extracurricular_Hackathon": {
+    "keywords": ["hackathon"],
+    "responses": [
+      "Students participate in national-level hackathons like SIH, working on real-world problems and innovative solutions."
+    ]
+  },
+  "AntiRagging_Policy": {
+    "keywords": ["ragging"],
+    "responses": [
+      "SVCET follows a strict zero-tolerance policy towards ragging in any form on or off campus."
+    ]
+  },
+  "AntiRagging_Measures": {
+    "keywords": ["anti ragging"],
+    "responses": [
+      "Anti-ragging committees and squads are active throughout the academic year to ensure a safe and inclusive environment."
+    ]
+  },
+  "AntiRagging_Safety": {
+    "keywords": ["safety"],
+    "responses": [
+      "Student safety is a top priority, with 24/7 monitoring in hostels and public areas, along with CCTV surveillance."
+    ]
+  },
+  "AntiRagging_Complaint": {
+    "keywords": ["complaint"],
+    "responses": [
+      "Students can submit complaints anonymously through the official portal or directly to faculty members or the warden."
+    ]
+  },
+  "AntiRagging_Helpline": {
+    "keywords": ["helpline"],
+    "responses": [
+      "A dedicated anti-ragging helpline number is available for students to report incidents confidentially."
+    ]
+  },
+  "AntiRagging_Discipline": {
+    "keywords": ["discipline"],
+    "responses": [
+      "Strict disciplinary actions including suspension, expulsion, or legal action (FIR) will be taken against those found guilty of ragging."
+    ]
+  },
+  "AntiRagging_Awareness": {
+    "keywords": ["awareness"],
+    "responses": [
+      "Regular anti-ragging awareness programs and orientation sessions are conducted at the beginning of every academic year."
+    ]
+  },
+  "Alumni_Connection": {
+    "keywords": ["alumni"],
+    "responses": [
+      "SVCET alumni are spread across top MNCs, research organizations, and government sectors, making the college proud."
+    ]
+  },
+  "Alumni_PassOut": {
+    "keywords": ["pass out"],
+    "responses": [
+      "Our graduates continue to excel in various professional and academic fields after completing their programs at SVCET."
+    ]
+  },
+  "Alumni_OldStudents": {
+    "keywords": ["old students"],
+    "responses": [
+      "Old students are actively engaged through alumni events, mentorship, and collaborative programs with current batches."
+    ]
+  },
+  "Alumni_Graduates": {
+    "keywords": ["graduates"],
+    "responses": [
+      "Graduates of SVCET contribute significantly in sectors like IT, core engineering, entrepreneurship, and public services."
+    ]
+  },
+  "Alumni_Reunion": {
+    "keywords": ["reunion"],
+    "responses": [
+      "Annual alumni reunions offer a chance to reconnect, celebrate memories, and network with peers and faculty."
+    ]
+  },
+  "Alumni_Network": {
+    "keywords": ["network"],
+    "responses": [
+      "The alumni network supports mentorship, internships, and career guidance for current students through the alumni portal."
+    ]
+  },
+  "Infrastructure_Labs": {
+    "keywords": ["labs"],
+    "responses": [
+      "Departments are equipped with specialized labs like Computer Labs, Electronics Labs, Mechanical Workshops, and Simulation Centers."
+    ]
+  },
+  "Infrastructure_Overview": {
+    "keywords": ["infrastructure"],
+    "responses": [
+      "SVCET offers state-of-the-art infrastructure including smart classrooms, tech-enabled labs, and modern amenities for students."
+    ]
+  },
+  "Infrastructure_Classrooms": {
+    "keywords": ["classrooms"],
+    "responses": [
+      "Classrooms are equipped with digital boards, projectors, and sound systems to support interactive learning."
+    ]
+  },
+  "Infrastructure_Wifi": {
+    "keywords": ["wifi"],
+    "responses": [
+      "The campus is Wi-Fi enabled with high-speed internet access available throughout the college premises."
+    ]
+  },
+  "Infrastructure_Equipment": {
+    "keywords": ["equipment"],
+    "responses": [
+      "Lab and workshop equipment are regularly upgraded to align with the latest academic and industry standards."
+    ]
+  },
+  "Infrastructure_Facilities": {
+    "keywords": ["facilities"],
+    "responses": [
+      "Facilities include clean drinking water, power backup, sanitary systems, and eco-friendly infrastructure."
+    ]
+  },
+  "Infrastructure_Computers": {
+    "keywords": ["computers"],
+    "responses": [
+      "Computer labs are equipped with high-performance systems and licensed software for coding, design, and simulations."
+    ]
+  },
+  "Infrastructure_InnovationLabs": {
+    "keywords": ["research", "innovation"],
+    "responses": [
+      "Dedicated innovation zones like IoT Labs, AI Labs, and Entrepreneurship Cells foster student-led research and startup ideas."
+    ]
+  },
+  "Parents_Interaction": {
+    "keywords": ["parents"],
+    "responses": [
+      "Parents are encouraged to visit the campus during working hours and participate in Parent-Teacher Meets for academic updates."
+    ]
+  },
+  "Parents_Guardian": {
+    "keywords": ["guardian"],
+    "responses": [
+      "Guardians can stay informed about their ward’s progress through regular updates and college communication channels."
+    ]
+  },
+  "Parents_HostelVisit": {
+    "keywords": ["hostel visit"],
+    "responses": [
+      "Parents and guardians may visit students in the hostel during designated visiting hours with prior permission."
+    ]
+  },
+  "Parents_Fees": {
+    "keywords": ["fees"],
+    "responses": [
+      "Fee payments can be made online, through bank transfer, or in-person. Instant receipts are provided for transparency."
+    ]
+  },
+  "Parents_Safety": {
+    "keywords": ["safety"],
+    "responses": [
+      "24x7 safety is ensured through campus security personnel, CCTV surveillance, and access control systems."
+    ]
+  },
+  "Parents_Discipline": {
+    "keywords": ["discipline"],
+    "responses": [
+      "Strict discipline policies are in place, and any violation is communicated to parents along with corrective measures."
+    ]
+  },
+  "Parents_Contact": {
+    "keywords": ["contact"],
+    "responses": [
+      "Parents can contact the Dean of Student Affairs, HODs, or class coordinators for any queries regarding their wards."
+    ]
+  },
+  "Parents_Support": {
+    "keywords": ["support"],
+    "responses": [
+      "Support systems like counseling, academic progress tracking, and grievance redressal are accessible to both students and parents."
+    ]
+  },
+  "CulturalFest_MainFest": {
+    "keywords": ["fest"],
+    "responses": [
+      "'Selesta' is the college's flagship cultural fest, bringing together talent from various colleges across the region."
+    ]
+  },
+  "CulturalFest_CulturalEvents": {
+    "keywords": ["cultural"],
+    "responses": [
+      "Cultural events at SVCET include dance, drama, fashion shows, music, and more, providing a vibrant platform for expression."
+    ]
+  },
+  "CulturalFest_Activities": {
+    "keywords": ["events"],
+    "responses": [
+      "Events span from competitions and exhibitions to live performances, encouraging wide student participation."
+    ]
+  },
+  "CulturalFest_Selesta": {
+    "keywords": ["selesta"],
+    "responses": [
+      "Selesta is the grand annual cultural festival featuring star performances, DJ nights, and inter-college competitions."
+    ]
+  },
+  "CulturalFest_CelebrationDays": {
+    "keywords": ["celebration"],
+    "responses": [
+      "Major celebrations include Freshers Day, Republic Day, Independence Day, and College Day, filled with joy and spirit."
+    ]
+  },
+  "CulturalFest_AnnualDay": {
+    "keywords": ["annual day"],
+    "responses": [
+      "Annual Day at SVCET is marked with award ceremonies, cultural programs, and chief guest addresses to honor student achievements."
+    ]
+  },
+  "CulturalFest_Competitions": {
+    "keywords": ["competition"],
+    "responses": [
+      "Exciting competitions like Street Play, Battle of Bands, Solo Singing, and Quiz Night ignite friendly rivalry and creativity."
+    ]
+  },
+  "CulturalFest_TalentShow": {
+    "keywords": ["talent show"],
+    "responses": [
+      "Talent shows during college fests offer students a chance to showcase their unique skills in front of enthusiastic audiences."
+    ]
+  },
+  "Library_Main": {
+    "keywords": ["library"],
+    "responses": [
+      "The central library at SVCET offers a vast collection of textbooks, reference materials, journals, and magazines across all disciplines."
+    ]
+  },
+  "Library_Books": {
+    "keywords": ["books"],
+    "responses": [
+      "Thousands of academic and reference books are available for students to borrow and refer to throughout the semester."
+    ]
+  },
+  "Library_ELibrary": {
+    "keywords": ["e-library"],
+    "responses": [
+      "Our e-library portal provides access to e-books, video lectures, and online learning resources anytime, anywhere."
+    ]
+  },
+  "Library_DigitalLibrary": {
+    "keywords": ["digital library"],
+    "responses": [
+      "The digital library includes subscriptions to platforms like IEEE, Springer, JSTOR, and NPTEL for advanced academic research."
+    ]
+  },
+  "Library_Journals": {
+    "keywords": ["journals"],
+    "responses": [
+      "Students and faculty can explore both national and international journals across science, technology, and management domains."
+    ]
+  },
+  "Library_Reading": {
+    "keywords": ["reading"],
+    "responses": [
+      "Separate silent reading halls and discussion rooms are available for uninterrupted study and academic collaboration."
+    ]
+  },
+  "Library_StudySpace": {
+    "keywords": ["study space"],
+    "responses": [
+      "The library offers dedicated study spaces with comfortable seating, proper lighting, and a quiet environment for focused learning."
+    ]
+  },
+  "Library_EClassroom": {
+    "keywords": ["e-classroom"],
+    "responses": [
+      "E-classrooms in the library are equipped with projectors, smart boards, and internet access to support tech-enabled learning."
+    ]
+  },
+  "SIH_Overview": {
+    "keywords": ["sih"],
+    "responses": [
+      "Smart India Hackathon (SIH) is a nationwide innovation competition where SVCET students actively participate and excel."
+    ]
+  },
+  "SIH_OfficialName": {
+    "keywords": ["smart india hackathon"],
+    "responses": [
+      "The Smart India Hackathon is a prestigious initiative by the Government of India to promote out-of-the-box thinking and innovation among students."
+    ]
+  },
+  "SIH_Hackathon": {
+    "keywords": ["hackathon"],
+    "responses": [
+      "Hackathons like SIH give students the opportunity to develop real-world tech solutions under time-bound challenges."
+    ]
+  },
+  "SIH_CodingEvent": {
+    "keywords": ["coding event"],
+    "responses": [
+      "SIH is one of the largest coding events in India where students work on coding-based problem statements provided by industries and government bodies."
+    ]
+  },
+  "SIH_Innovation": {
+    "keywords": ["innovation"],
+    "responses": [
+      "The event fosters innovation by encouraging teams to build prototypes and solutions that address critical real-world issues."
+    ]
+  },
+  "SIH_Challenge": {
+    "keywords": ["challenge"],
+    "responses": [
+      "The challenge format of SIH enhances creativity, critical thinking, and team spirit among student participants."
+    ]
+  },
+  "NSS_Overview": {
+    "keywords": ["nss"],
+    "responses": [
+      "The National Service Scheme (NSS) unit at SVCET promotes student involvement in social and community service activities."
+    ]
+  },
+  "NSS_SocialWork": {
+    "keywords": ["social work"],
+    "responses": [
+      "NSS volunteers engage in impactful social work such as health camps, awareness rallies, and service-oriented outreach."
+    ]
+  },
+  "NSS_Service": {
+    "keywords": ["service"],
+    "responses": [
+      "Through NSS, students serve underprivileged communities and contribute to national development with dedication and compassion."
+    ]
+  },
+  "NSS_Community": {
+    "keywords": ["community"],
+    "responses": [
+      "The NSS team actively works with rural communities on education, hygiene, and development projects under village adoption programs."
+    ]
+  },
+  "NSS_Volunteer": {
+    "keywords": ["volunteer"],
+    "responses": [
+      "Students are encouraged to volunteer in events like blood donation, plantation drives, and awareness campaigns."
+    ]
+  },
+  "NSS_BloodDonation": {
+    "keywords": ["blood donation"],
+    "responses": [
+      "Our NSS unit organizes regular blood donation drives in collaboration with hospitals and Red Cross Societies."
+    ]
+  },
+  "NSS_CleanlinessDrive": {
+    "keywords": ["cleanliness drive"],
+    "responses": [
+      "Cleanliness drives are conducted on and off campus to promote hygiene and support the Swachh Bharat mission."
+    ]
+  },
+  "Chapters_Overview": {
+    "keywords": ["student chapter"],
+    "responses": [
+      "SVCET hosts a range of student chapters like IEEE, ISTE, SAE, CSI, and Entrepreneurship Cell that empower students beyond academics."
+    ]
+  },
+  "Chapters_IEEE": {
+    "keywords": ["ieee"],
+    "responses": [
+      "The IEEE student chapter organizes technical workshops, paper presentations, and seminars on emerging technologies."
+    ]
+  },
+  "Chapters_ISTE": {
+    "keywords": ["iste"],
+    "responses": [
+      "The ISTE chapter conducts faculty and student development programs, fostering innovation and practical skills."
+    ]
+  },
+  "Chapters_Club": {
+    "keywords": ["club"],
+    "responses": [
+      "Clubs at SVCET promote technical, cultural, and leadership development through year-round activities and events."
+    ]
+  },
+  "Chapters_Association": {
+    "keywords": ["association"],
+    "responses": [
+      "Each department has its own technical association that conducts symposiums, mini-project expos, and alumni talks."
+    ]
+  },
+  "Chapters_TechnicalSociety": {
+    "keywords": ["technical society"],
+    "responses": [
+      "Our technical societies collaborate with industry experts to host tech talks, hackathons, and innovation challenges."
+    ]
+  },
+  "Chapters_Team": {
+    "keywords": ["team"],
+    "responses": [
+      "Joining a student team enhances your collaborative skills and gives you opportunities to lead events and competitions."
+    ]
+  },
+  "Gym_Facility": {
+    "keywords": ["gym"],
+    "responses": [
+      "Our campus gym is well-equipped with strength training and cardio machines to support student fitness."
+    ]
+  },
+  "Gym_Fitness": {
+    "keywords": ["fitness"],
+    "responses": [
+      "Fitness sessions are conducted regularly to promote a healthy lifestyle and physical well-being among students."
+    ]
+  },
+  "Gym_Workout": {
+    "keywords": ["workout"],
+    "responses": [
+      "Students have access to a dedicated workout space with flexible timings to suit their daily schedule."
+    ]
+  },
+  "Gym_Exercise": {
+    "keywords": ["exercise"],
+    "responses": [
+      "Exercise routines include cardio, strength training, and flexibility workouts tailored to student needs."
+    ]
+  },
+  "Gym_Bodybuilding": {
+    "keywords": ["bodybuilding"],
+    "responses": [
+      "Bodybuilding enthusiasts can use free weights, machines, and other tools available in the gym to train effectively."
+    ]
+  },
+  "Gym_Training": {
+    "keywords": ["training"],
+    "responses": [
+      "Students receive structured fitness training under the supervision of certified instructors."
+    ]
+  },
+  "Gym_Coach": {
+    "keywords": ["coach"],
+    "responses": [
+      "Professional coaches are available to guide students with workout routines, diet suggestions, and goal tracking."
+    ]
+  },
+  "Travell_Bus": {
+    "keywords": ["bus"],
+    "responses": [
+      "The college operates a fleet of buses that connect major towns and localities for students and staff."
+    ]
+  },
+  "Travell_Transport": {
+    "keywords": ["transport"],
+    "responses": [
+      "Transport facilities are well-managed and available on all working days to ensure timely and safe commuting."
+    ]
+  },
+  "Travell_Shuttle": {
+    "keywords": ["shuttle"],
+    "responses": [
+      "Shuttle services are provided for specific routes during peak hours or for special campus events."
+    ]
+  },
+  "Travell_CollegeBus": {
+    "keywords": ["college bus"],
+    "responses": [
+      "College buses run on predefined routes with fixed timings for pickup and drop, ensuring student convenience."
+    ]
+  },
+  "Travell_Pickup": {
+    "keywords": ["pickup"],
+    "responses": [
+      "Designated pickup points across town make it easy for students to board the college buses on time."
+    ]
+  },
+  "Travell_Drop": {
+    "keywords": ["drop"],
+    "responses": [
+      "College buses provide timely drop service to ensure students reach home safely after classes."
+    ]
+  },
+  "Travell_Route": {
+    "keywords": ["route"],
+    "responses": [
+      "Detailed bus routes and stop locations are published on the college notice board and website."
+    ]
+  },
+  "Travell_Travel": {
+    "keywords": ["travel"],
+    "responses": [
+      "The college ensures hassle-free travel with organized transport schedules, safety measures, and proper bus maintenance."
+    ]
+  },
+  "College_Ranking": {
+    "keywords": ["ranking"],
+    "responses": [
+      "Our college holds a strong ranking among engineering institutions in the region, recognized for academic excellence and innovation."
+    ]
+  },
+  "College_Accreditation": {
+    "keywords": ["accreditation"],
+    "responses": [
+      "The institution is accredited by NAAC and NBA, ensuring top-tier academic standards and continuous quality improvement."
+    ]
+  },
+  "College_Reputation": {
+    "keywords": ["reputation"],
+    "responses": [
+      "SVCET enjoys a solid reputation for its consistent academic performance, alumni success, and industry collaboration."
+    ]
+  },
+  "College_Faculty": {
+    "keywords": ["faculty"],
+    "responses": [
+      "Our faculty comprises experienced professors and researchers committed to mentoring students and driving innovation."
+    ]
+  },
+  "College_Facilities": {
+    "keywords": ["facilities"],
+    "responses": [
+      "Modern classrooms, well-equipped laboratories, libraries, and sports infrastructure contribute to a great learning environment."
+    ]
+  },
+  "College_Quality": {
+    "keywords": ["good"],
+    "responses": [
+      "Students consistently rate the college highly for academics, support systems, and campus life."
+    ]
+  },
+  "College_Placement": {
+    "keywords": ["placement"],
+    "responses": [
+      "Top companies recruit from our campus every year, offering roles in IT, core, and management sectors."
+    ]
+  },
+  "College_StudentSatisfaction": {
+    "keywords": ["student satisfaction"],
+    "responses": [
+      "Student feedback reflects high satisfaction with teaching methods, support services, and personal development opportunities."
+    ]
+  },
+  "College_IndustryConnections": {
+    "keywords": ["industry connections"],
+    "responses": [
+      "Partnerships with leading industries enable internships, guest lectures, and collaborative projects for students."
+    ]
+  },
+  "College_Extracurricular": {
+    "keywords": ["extracurricular"],
+    "responses": [
+      "The college supports a wide range of extracurricular clubs, cultural events, and inter-college competitions."
+    ]
+  },
+  "College_Research": {
+    "keywords": ["research"],
+    "responses": [
+      "Research centers in AI, IoT, and renewable energy encourage students and faculty to publish papers and innovate."
+    ]
+  },
+  "greeting": {
+    "keywords": ["hi", "Hi", "Hii", "hii", "Hello", "hello", "hlo", "Hlo"],
+    "responses": [
+      "Hello! How can I help you today with your college inquiries?",
+      "Hi there! Feel free to ask me anything about admissions, academics, or campus life.",
+      "Hey! I'm here to assist you with any questions about our college.",
+      "Greetings! Need information on courses, fees, or placements? I'm ready to help!",
+      "Hi! Looking for details about our programs or facilities? Just ask!"
+    ]
+  },
+  "Question": {
+    "keywords": [
+      "self introduction",
+      "who are you?",
+      "your name",
+      "name",
+      "you",
+      "yourself"
+    ],
+    "responses": [
+      "I'm Dev, your friendly virtual assistant created to help with all your queries about Sri Venkateswara College of Engineering and Technology! "
+    ]
+  },
+  "Sport": {
+    "keywords": [
+      "sport",
+      "Sport",
+      "sports",
+      "Sports",
+      "Games",
+      "games",
+      "Game",
+      "game"
+    ],
+    "responses": [
+      "At Sri Venkateswara College of Engineering and Technology, we strongly encourage students to stay active and participate in sports! 🏆\n\nHere is what we offer in terms of sports facilities:\n\n- 🏏 Cricket Ground  Full-sized and well-maintained for matches and practice.\n- ⚽ Football Ground – Perfect for team games and tournaments.\n- 🏀 Basketball Court  For both casual play and competitive events. 🏐 Volleyball Court  Regular inter-college matches are held here.\n- 🏸 Badminton Court – Both indoor and outdoor options available.\n- 🥋 Kabaddi Ground  A popular choice among students.\n- 🎯 Indoor Games Rooms  Equipped for chess, carroms, table tennis, and more!Whether you're a seasoned player or just looking to have fun and stay fit there is something for everyone!  Let me know if you would like info about sports teams events or joining a club."
+    ]
+  },
+  "Opion": {
+    "keywords": ["Student opion ", "opion ", "Opion", "View"],
+    "responses": [
+      "The faculty is really supportive and the curriculum is up-to-date with current industry trends. Labs are well-equipped too.",
+      "Campus life is vibrant with lots of cultural and tech fests. It's a great place to explore extracurricular activities.",
+      "Placements are decent, especially for CS and IT. Core branches get fewer opportunities, but internships help bridge the gap."
+    ]
+  },
+  "Location": {
+    "keywords": [
+      "location",
+      "located",
+      "place",
+      "placed",
+      "where is the college"
+    ],
+    "responses": [
+      "The College is located on highway in an area of 65 Acre of  sceniec beauty at R V S Nagar , Chittoor(AP).The College is located 7 Km from Chittoor and 60 km from Tirupati ."
+    ]
+  },
+  "CampusSize": {
+    "keywords": [
+      "campus size",
+      "area of college",
+      "how big is the campus",
+      "college area",
+      "campus area"
+    ],
+    "responses": [
+      "The College is located on highway in an area of 65 Acre of  sceniec beauty at R V S Nagar , Chittoor(AP).The College is located 7 Km from Chittoor and 60 km from Tirupati ."
+    ]
+  },
+  "CampusArea": {
+    "keywords": [
+      "campus area",
+      "campus size",
+      "area of college",
+      "how big is the campus",
+      "college area",
+      "campas area"
+    ],
+    "responses": [
+      "The college campus spans across 65 acres, providing a spacious and green environment ideal for academics, sports, and student activities."
+    ]
+  },
+  "Fee_CSE": {
+    "keywords": [
+      "cse fee",
+      "computer science fee",
+      "fee for cse",
+      "cse branch fee"
+    ],
+    "responses": [
+      "The annual fee for Computer Science Engineering (CSE) is ₹1,20,000."
+    ]
+  },
+  "All_CSE": {
+    "keywords": ["All fee", "fee structure", "fee"],
+    "responses": [
+      ".Here \nis the branch-wise annual fee structure:\n• Computer Science Engineering (CSE): ₹1,20,000\n• Information Technology (IT): ₹1,00,000\n• Computer & Artificial Intelligence (CAI): ₹1,05,000\n• Electronics and Communication Engineering (ECE): ₹95,000\n• Electrical and Electronics Engineering (EEE): ₹90,000\n• Mechanical Engineering (ME): ₹85,000\n• Civil Engineering: ₹80,000\n\nNote: The fee may vary slightly for management quota admissions. Concessions and scholarships are available for differently-abled students based on eligibility."
+    ]
+  },
+  "Fee_IT": {
+    "keywords": [
+      "it fee",
+      "information technology fee",
+      "fee for it",
+      "it branch fee"
+    ],
+    "responses": [
+      "The annual fee for Information Technology (IT) is ₹1,00,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+  "Fee_CAI": {
+    "keywords": [
+      "cai fee",
+      "artificial intelligence fee",
+      "fee for cai",
+      "computer and ai fee"
+    ],
+    "responses": [
+      "The annual fee for Computer & Artificial Intelligence (CAI) is ₹1,05,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
+    ]
+  },
+  "Fee_ECE": {
+    "keywords": [
+      "ece fee",
+      "electronics and communication fee",
+      "fee for ece",
+      "ece branch fee"
+    ],
+    "responses": [
+      "The annual fee for Electronics and Communication Engineering (ECE) is ₹95,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
+    ]
+  },
+  "Fee_EEE": {
+    "keywords": [
+      "eee fee",
+      "electrical engineering fee",
+      "fee for eee",
+      "eee branch fee"
+    ],
+    "responses": [
+      "The annual fee for Electrical and Electronics Engineering (EEE) is ₹90,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
+    ]
+  },
+  "Fee_MECH": {
+    "keywords": [
+      "mechanical fee",
+      "mech fee",
+      "fee for mechanical",
+      "me branch fee"
+    ],
+    "responses": [
+      "The annual fee for Mechanical Engineering (ME) is ₹85,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
+    ]
+  },
+  "Fee_CIVIL": {
+    "keywords": [
+      "civil fee",
+      "civil engineering fee",
+      "fee for civil",
+      "civil branch fee"
+    ],
+    "responses": [
+      "The annual fee for Civil Engineering is ₹80,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
+    ]
+  },
+  "Course_Course": {
+    "keywords": ["course"],
+    "responses": [
+      "We offer a variety of undergraduate and postgraduate courses tailored to industry needs, including B.Tech, MBA, and specialized programs.We offer branches such as Computer Science, ECE, Mechanical, Civil, AI-DS, IT, and more, with flexibility to explore interdisciplinary learning."
+    ]
+  },
+  "Course_Curriculum": {
+    "keywords": ["curriculum"],
+    "responses": [
+      "The curriculum is AICTE-approved and regularly updated to stay in sync with current industry trends and technologies."
+    ]
+  },
+  "Course_Syllabus": {
+    "keywords": ["syllabus"],
+    "responses": [
+      "The full syllabus is available on the academic portal and covers both core subjects and electives. It’s structured for both theoretical and practical learning."
+    ]
+  },
+  "Course_Branches": {
+    "keywords": ["branches"],
+    "responses": [
+      "We offer branches such as Computer Science, ECE, Mechanical, Civil, AI-DS, IT, and more, with flexibility to explore interdisciplinary learning."
+    ]
+  },
+  "Course_Departments": {
+    "keywords": ["departments"],
+    "responses": [
+      "Our departments include Computer Science, Electronics & Communication, Electrical, Mechanical, Civil, AI-DS, IT, and Management Studies."
+    ]
+  },
+  "Course_Programs": {
+    "keywords": ["programs"],
+    "responses": [
+      "Programs include B.Tech, MBA, and domain-focused tracks in AI, IoT, Cybersecurity, and more to prepare students for future-ready careers."
+    ]
+  },
+  "Course_Subjects": {
+    "keywords": ["subjects"],
+    "responses": [
+      "Core and elective subjects include Data Structures, Machine Learning, Digital Electronics, Fluid Mechanics, and more, depending on the branch."
+    ]
+  },
+  "Course_BTech": {
+    "keywords": ["BTech"],
+    "responses": [
+      "The B.Tech program spans 4 years with a strong focus on engineering fundamentals, lab work, projects, internships, and elective choices."
+    ]
+  },
+  "Course_MBA": {
+    "keywords": ["MBA"],
+    "responses": [
+      "The MBA program focuses on leadership, marketing, finance, HR, and includes case studies, internships, and industry interactions."
+    ]
+  },
+  "Faculties_Info": {
+    "keywords": [
+      "faculty",
+      "faculties",
+      "teachers",
+      "staff",
+      "professors",
+      "instructors"
+    ],
+    "responses": [
+      "Our college has experienced and qualified faculty across all departments. Professors hold M.Tech, Ph.D., and other advanced degrees, and many are involved in active research and mentoring.",
+      "Faculty members are approachable and dedicated to guiding students both academically and professionally. Each department is headed by a senior professor with vast experience.",
+      "Departments like CSE, ECE, and MECH have faculty specialized in areas like AI, VLSI, Thermal Engineering, and more. Regular guest lectures and industry sessions are also conducted by experts."
+    ]
+  },
+  "Extracurricular_Extracurricular": {
+    "keywords": ["extracurricular"],
+    "responses": [
+      "Our college promotes a healthy balance of academics and extracurricular activities to ensure all-round development of students."
+    ]
+  },
+  "Extracurricular_Clubs": {
+    "keywords": ["clubs"],
+    "responses": [
+      "We have various student-run clubs like coding club, dance club, music club, drama club, and photography club that conduct regular sessions and events."
+    ]
+  },
+  "Extracurricular_Activities": {
+    "keywords": ["activities"],
+    "responses": [
+      "Students can participate in technical workshops, seminars, social outreach programs, hackathons, and more organized throughout the academic year."
+    ]
+  },
+  "Extracurricular_Sports": {
+    "keywords": ["sports"],
+    "responses": [
+      "Sports facilities are available for cricket, football, volleyball, badminton, athletics, and indoor games. Annual sports meet is a major highlight."
+    ]
+  },
+  "Extracurricular_Events": {
+    "keywords": ["events"],
+    "responses": [
+      "Numerous events such as tech fests, cultural nights, seminars, and inter-college competitions keep the campus lively and engaging."
+    ]
+  },
+  "Extracurricular_Cultural": {
+    "keywords": ["cultural"],
+    "responses": [
+      "Cultural programs include dance, music, drama, and traditional arts. Students regularly perform during college day and cultural fests."
+    ]
+  },
+  "Extracurricular_Fest": {
+    "keywords": ["fest"],
+    "responses": [
+      "Annual fests like college day, cultural fest, and technical symposiums bring students together for celebration and learning."
+    ]
+  },
+  "Extracurricular_Games": {
+    "keywords": ["games"],
+    "responses": [
+      "The campus offers space and equipment for various indoor and outdoor games, encouraging students to stay active and competitive."
+    ]
+  },
+  "General_Autonomous": {
+    "keywords": ["autonomous", "affiliation", "status"],
+    "responses": ["Yes, SVCET is an autonomous institution."]
+  },
+  "General_AdmissionProcess": {
+    "keywords": ["admission", "application", "process", "apply"],
+    "responses": [
+      "Admissions at SVCET are conducted through Common Entrance Tests like EAPCET for UG programs, PGECET for M.Tech, and ICET for MBA and MCA programs. The state government follows a centralized admission procedure for the Convener Quota. For detailed information, please visit our admission process page."
+    ]
+  },
+  "General_EligibilityBTech": {
+    "keywords": ["eligibility", "B.Tech", "qualifications", "criteria"],
+    "responses": [
+      "Candidates must have a minimum of 50% in 10+2 (Intermediate) with Mathematics, Physics, and Chemistry as compulsory subjects to be eligible for B.Tech programs at SVCET."
+    ]
+  },
+  "General_ManagementQuota": {
+    "keywords": ["management quota", "Category-B", "seats"],
+    "responses": [
+      "Yes, 30% of the total seats are under Category-B (Management Quota) and are filled by the college management as per guidelines of APSCHE."
+    ]
+  },
+  "Facilities_Hostel": {
+    "keywords": ["hostel", "accommodation", "facilities"],
+    "responses": [
+      "Yes, SVCET provides hostel accommodation for both boys and girls. The hostels are situated just 0.5 km from the college, with bus facilities available between the college and hostel. The boys' hostel has 269 rooms, and the girls' hostel has 129 rooms, equipped with necessary amenities."
+    ]
+  },
+  "Facilities_Sports": {
+    "keywords": ["sports", "gymnasium", "facilities"],
+    "responses": [
+      "SVCET offers various sports facilities, including a well-equipped gymnasium with modern equipment like 20 individual stations and 2 multi-stations."
+    ]
+  },
+  "Facilities_Transport": {
+    "keywords": ["transport", "bus", "services"],
+    "responses": [
+      "Yes, SVCET offers bus facilities for students between the college and hostels, ensuring convenient transportation."
+    ]
+  },
+  "Facilities_Library": {
+    "keywords": ["library", "resources", "books"],
+    "responses": [
+      "Yes, SVCET has a central library equipped with a vast collection of books, journals, and digital resources to support students' academic needs."
+    ]
+  },
+  "Facilities_AntiRagging": {
+    "keywords": ["anti-ragging", "safety", "measures"],
+    "responses": [
+      "SVCET has a strict anti-ragging policy to ensure the safety and well-being of all students on campus."
+    ]
+  },
+  "Placement_Record": {
+    "keywords": ["placement", "record", "jobs", "employment"],
+    "responses": [
+      "SVCET has a commendable placement record with numerous students placed in reputed companies over the years. For detailed placement records, please visit our placement record page."
+    ]
+  },
+  "Placement_Companies": {
+    "keywords": ["companies", "recruiters", "placement companies"],
+    "responses": [
+      "Top companies like Infosys, TCS, Wipro, Cognizant, Accenture, Capgemini, Tech Mahindra, and IBM have visited SVCET for campus placements. Several startups and core companies also recruit students from various engineering and management streams."
+    ]
+  },
+  "Placement_Career": {
+    "keywords": ["career"],
+    "responses": [
+      "Our Career Services team offers career counseling, resume-building workshops, interview coaching, and exclusive job fairs."
+    ]
+  },
+  "Placement_Internship": {
+    "keywords": ["internship"],
+    "responses": [
+      "We collaborate with industry leaders to provide internship placements in technology, healthcare, finance, and government sectors."
+    ]
+  },
+  "Placement_Job": {
+    "keywords": ["job", "employment"],
+    "responses": [
+      "Graduates achieve a strong placement rate, with recruiters including multinational corporations and top startups."
+    ]
+  },
+  "Placement_Company": {
+    "keywords": ["company", "industry", "hire"],
+    "responses": [
+      "Annual placement drives bring over 150 esteemed recruiters to hire talented students."
+    ]
+  },
+  "Placement_Salary": {
+    "keywords": ["salary"],
+    "responses": [
+      "Competitive salary packages are secured by graduates, reflecting high demand for their skills across industries."
+    ]
+  },
+  "CSE_HOD_Info": {
+    "keywords": ["cse hod", "computer science hod", "head of cse department"],
+    "responses": [
+      "The Head of the CSE Department is Dr P Jyotheeswari , known for his expertise in  guiding both academic and research excellence."
+    ]
+  },
+  "ECE_HOD_Info": {
+    "keywords": [
+      "ece hod",
+      "electronics hod",
+      "head of ece department",
+      "hod of ece"
+    ],
+    "responses": ["The Head of the ECE Department is Dr. D. srihari,Ph.D"]
+  },
+  "EEE_HOD_Info": {
+    "keywords": [
+      "eee hod",
+      "electrical hod",
+      "head of eee department",
+      "hod of eee"
+    ],
+    "responses": [
+      "The Head of the EEE Department is Dr. Y. N. Vijaya Kumar, who specializes in power systems and energy management."
+    ]
+  },
+  "MECH_HOD_Info": {
+    "keywords": [
+      "mechanical hod",
+      "mech hod",
+      "head of mechanical department",
+      "hod of mechanical"
+    ],
+    "responses": [
+      "The Head of the Mechanical Department is Dr. C. Vijaya Bhaskar Reddy, known for his contributions in thermal engineering and CAD/CAM."
+    ]
+  },
+  "CIVIL_HOD_Info": {
+    "keywords": ["civil hod", "head of civil department", "hod of civil"],
+    "responses": [
+      "The Head of the Civil Department is Dr. B. Damodhara Reddy, with expertise in structural engineering and sustainable construction."
+    ]
+  },
+  "AIDS_HOD_Info": {
+    "keywords": [
+      "has hod",
+      "HAS hod",
+      "artificial intelligence data science hod",
+      "hod of HAS",
+      "hod of has"
+    ],
+    "responses": ["The Head of the HAS Department is Dr K. Komala."]
+  },
+  "AIML_HOD_Info": {
+    "keywords": [
+      "aiml hod",
+      "ai ml hod",
+      "artificial intelligence machine learning hod",
+      "hod of csm"
+    ],
+    "responses": [
+      "The Head of the AI & ML Department is Dr. M. Lavanya, with a research focus on neural networks and deep learning."
+    ]
+  },
+  "IT_HOD_Info": {
+    "keywords": ["IT hod", "information technology hod", "hod of IT"],
+    "responses": [
+      "The Head of the IT Department is Mr. S R  Rajkumar, BE,M.Tech"
+    ]
+  },
+  "CSD_INFO": {
+    "keywords": ["CSD hod", "csd hod", "data science hod", "hod of csd"],
+    "responses": ["The Head of the CSD Department is Dr. Libonce sir,Ph.D"]
+  },
+  "SIE": {
+    "keywords": ["dean of SIE"],
+    "responses": ["The Head of SIE is Dr. T Raja Reddy sir,Ph.D"]
+  },
+  "Principal": {
+    "keywords": ["Principal", "principal", "principal of SVCET"],
+    "responses": ["The principal of SVCET Dr. Matam Mohan Babu"]
+  },
+  "Chairman": {
+    "keywords": ["Chairman"],
+    "responses": ["The  Chairman of SVCET  is Dr. Ravuri Venkataswamy"]
+  },
+  " Vice Chairman": {
+    "keywords": ["Vice-Chairman", "vc"],
+    "responses": ["The Vice Chairman  is Dr. R.V. Srinivas"]
+  },
+  "academic": {
+    "keywords": ["academic", "academics"],
+    "responses": [
+      "At SVCET, we offer a strong academic foundation with a focus on both theoretical knowledge and practical application. Our institution is affiliated with JNTU-Anantapur and follows the university-prescribed curriculum across all departments."
+    ]
+  },
+
+  "default": [
+    "I'm not sure I understand your question. Could you provide more details or ask about a specific aspect of the university?"
+  ]
+}
